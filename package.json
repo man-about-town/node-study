@@ -1,0 +1,22 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "this project is node study for man-about-town",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/man-about-town/node-study.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "man-about-town",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/man-about-town/node-study/issues"
+  },
+  "homepage": "https://github.com/man-about-town/node-study#readme"
+}
